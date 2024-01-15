@@ -1,6 +1,7 @@
 import './App.css'
 import Greeter from './components/Greeter'
 import LoginForm from './components/LoginForm'
+import Die from "./components/Die"
 
 function Header() {
   return(
@@ -16,6 +17,7 @@ function App() {
       <Header />
       <Greeter />
       <LoginForm />
+      <Die />
     </>
   )
 }
