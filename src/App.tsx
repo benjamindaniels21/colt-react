@@ -1,5 +1,6 @@
 import './App.css'
 import Greeter from './components/Greeter'
+import LoginForm from './components/LoginForm'
 
 function Header() {
   return(
@@ -14,6 +15,7 @@ function App() {
     <>
       <Header />
       <Greeter />
+      <LoginForm />
     </>
   )
 }
