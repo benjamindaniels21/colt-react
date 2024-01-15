@@ -1,0 +1,13 @@
+.pokemon{
+  border: 1px solid white;
+  padding: 30px;
+  border-radius: 30px;
+}
+
+.pokemon img {
+  width: 150px;
+}
+
+.pokemon h1 {
+  color: lightblue;
+}
